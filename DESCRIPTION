@@ -1,0 +1,9 @@
+Package: SCDEcode
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Yue Zhang
+Maintainer: Who to complain to <yuezhang@stanford.edu>
+Description: this is the work flow for single cell RNAseq Transcriptome heterogeneity analysis using SCDE R package
+License: What license is it under?
+LazyData: TRUE
