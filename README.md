@@ -11,3 +11,5 @@ The below Python (inside exec/) and R script (inside R) implements a set of stat
     1. mergy_STAR_stat.py - This python script will mergy read count from STAR for each gene each sample to make a big matrix for SCDE.
     2. SCDEcode.r - The R script implemented in the scde resolves multiple, potentially overlapping aspects of transcriptional heterogeneity by identifying known pathways that show significant excess of coordinated variability among the measured cells.
     
+A sample matrix (sample_data.txt) is saved in data folder which can directly fed into SCDEcode.R for analysis
+    
